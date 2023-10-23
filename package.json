@@ -1,9 +1,9 @@
 {
-    "name": "chatbox",
-    "productName": "chatbox",
+    "name": "ai-copilot",
+    "productName": "ai-copilot",
     "version": "0.0.1",
     "private": true,
-    "description": "Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux",
+    "description": "AI COPILOT is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux",
     "scripts": {
         "start:react": "react-scripts start",
         "build:react": "react-scripts build",
@@ -17,12 +17,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Bin-Huang/chatbox.git"
+        "url": "https://github.com/sukai127/ai-copilot.git"
     },
     "keywords": [],
     "author": {
-        "name": "bennhuang",
-        "email": "tohuangbin@gmail.com"
+        "name": "sukai",
+        "email": "sukai.coder@gmail.com"
     },
     "license": "GPL-3.0 license",
     "devDependencies": {
